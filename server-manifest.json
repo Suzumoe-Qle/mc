@@ -1,0 +1,599 @@
+{
+  "name": "苏维埃--手机端",
+  "author": "Suzumoe",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://github.com/Suzumoe-Qle/mc",
+  "files": [
+    {
+      "path": "config/additional-additions-config.json",
+      "hash": "b353a8703c67dd639b76502f29a2c0ef6087c7c8"
+    },
+    {
+      "path": "config/AqMods/caracal.config",
+      "hash": "0e1e7b2a37af6c74f16f639e490ea95b72bf4ed7"
+    },
+    {
+      "path": "config/backported_wolves.properties",
+      "hash": "42d6384c253b207c79031faaa109f0c9db80e4c8"
+    },
+    {
+      "path": "config/balm-common.out.toml",
+      "hash": "0f701c86cbd2f10b741ee1919cfa26d66e28e613"
+    },
+    {
+      "path": "config/balm-common.toml",
+      "hash": "0f701c86cbd2f10b741ee1919cfa26d66e28e613"
+    },
+    {
+      "path": "config/bclib/biomes.json",
+      "hash": "d3ea183ab99e4a17772af52954c8f2a06c91cef6"
+    },
+    {
+      "path": "config/bclib/cache.json",
+      "hash": "774cbda456704e2a0986c8f1cbceb281f2c1d619"
+    },
+    {
+      "path": "config/bclib/client.json",
+      "hash": "9262cf5ad70548e10c533082dcee87d2e5f94aa2"
+    },
+    {
+      "path": "config/bclib/generator.json",
+      "hash": "f12c5c3b52983d0a2e75510e6f2003e09997b17d"
+    },
+    {
+      "path": "config/bclib/main.json",
+      "hash": "30a5c62d7fef25c5140f00da1724bfe6a641ce10"
+    },
+    {
+      "path": "config/bclib/server.json",
+      "hash": "0bcc751d5223ddb960c01e3dc02af1b9b34d778b"
+    },
+    {
+      "path": "config/beautify.json",
+      "hash": "549a62f65a167a466006fbee8e38c991ca47f068"
+    },
+    {
+      "path": "config/bettercombat/client.json5",
+      "hash": "06b1511550962b3bfe7cb155493ececd77c4d599"
+    },
+    {
+      "path": "config/bettercombat/fallback_compatibility.json",
+      "hash": "8efde77c49f6cd7c4035ee3f554c25f63532335a"
+    },
+    {
+      "path": "config/bettercombat/server.json5",
+      "hash": "89b6a594063ef1ea7e69e20de2af600f16dda975"
+    },
+    {
+      "path": "config/betterdeserttemples/fabric-1_20_4/armorstands.json",
+      "hash": "143c298962e3ef059465072098e1e9d9332dcc29"
+    },
+    {
+      "path": "config/betterdeserttemples/fabric-1_20_4/itemframes.json",
+      "hash": "63d314b699d5d9a6060b5f0527cccc1a29d4fc7a"
+    },
+    {
+      "path": "config/betterdeserttemples/fabric-1_20_4/README.txt",
+      "hash": "80a9d927f4978590ec21d5ae2e2a8e68b16f3277"
+    },
+    {
+      "path": "config/betterdeserttemples/README.txt",
+      "hash": "e9aa15b807f311961f737cd9c19fcf1028a69de3"
+    },
+    {
+      "path": "config/betterdeserttemples-fabric-1_20_4.toml",
+      "hash": "984d1b7f376bc2095f80cfea7d631e5dc93ed94c"
+    },
+    {
+      "path": "config/betterdungeons-fabric-1_20_4.toml",
+      "hash": "07c62f3883fd98b998a6a8f61408dfdc2ab136dc"
+    },
+    {
+      "path": "config/betterend/blocks.json",
+      "hash": "f04afe1a430e3f89a14cfd3091262e0d5760784c"
+    },
+    {
+      "path": "config/betterend/client.json",
+      "hash": "4b7fd8c17ed28d8d285b8870a55f266d7ef3a800"
+    },
+    {
+      "path": "config/betterend/enchantments.json",
+      "hash": "1a1874a232f8efabec80a4693ef2027a9f5e3d11"
+    },
+    {
+      "path": "config/betterend/entities.json",
+      "hash": "49f24acceb23fb5cf8e8dbce8f8d9f3318eeaceb"
+    },
+    {
+      "path": "config/betterend/generator.json",
+      "hash": "ac88ca1da11daacafda6feb26eb122b9cfd5ffb4"
+    },
+    {
+      "path": "config/betterend/items.json",
+      "hash": "7dfc8fee445c19a61d318587b7ae41c6884e47fc"
+    },
+    {
+      "path": "config/betterend/portals.json",
+      "hash": "155613aade66441f1485e53ef459e1bba158b797"
+    },
+    {
+      "path": "config/betterfortresses/fabric-1_20_4/itemframes.json",
+      "hash": "d2701cdf8e850e3fbd426877560c49d254b85ca5"
+    },
+    {
+      "path": "config/betterfortresses/fabric-1_20_4/README.txt",
+      "hash": "abaeda3856b09c5dd80e1b5ada9aaf171d038995"
+    },
+    {
+      "path": "config/betterfortresses/README.txt",
+      "hash": "ee9390a52c06710114e95c37236335e1ec03ee83"
+    },
+    {
+      "path": "config/betterfortresses-fabric-1_20_4.toml",
+      "hash": "bfdf06660a4a3f3905f008643632c9cce5dba9c6"
+    },
+    {
+      "path": "config/betterjungletemples-fabric-1_20_4.toml",
+      "hash": "e42bea2a9396acb277430855d3c485efcd419032"
+    },
+    {
+      "path": "config/bettermineshafts-fabric-1_20_4.toml",
+      "hash": "10ed3ebb8f0798c7a148af56256f8a05cf99c1a2"
+    },
+    {
+      "path": "config/betternether/biomes.json",
+      "hash": "b1b1d23b71e5ed8e949780a9a75e6172c0105dbd"
+    },
+    {
+      "path": "config/betternether/blocks.json",
+      "hash": "3b10bceedbccc1163998b52d9601b8ee69edf15a"
+    },
+    {
+      "path": "config/betternether/generator.json",
+      "hash": "f003240a594b15ddbce54d6dc2f9f20e73ac8dea"
+    },
+    {
+      "path": "config/betternether/items.json",
+      "hash": "883526bc88846b1960144672fccc3db3396c34b7"
+    },
+    {
+      "path": "config/betternether/main.json",
+      "hash": "7e5706ea7b68d97f8cdf51d832799f4338ab2c4a"
+    },
+    {
+      "path": "config/betternether/mobs.json",
+      "hash": "40ed7eb0caf017ae3a7f9d08c7c77253b7d57881"
+    },
+    {
+      "path": "config/betteroceanmonuments-fabric-1_20_4.toml",
+      "hash": "c95152c4df0456f2bc8ca6272fee45873af4ef6b"
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_20_4/armorstands.json",
+      "hash": "9415e45781179a3691078048f605c50e753f817e"
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_20_4/itemframes.json",
+      "hash": "747694691d67c08016e8d6d7c0682f28bfc9748f"
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_20_4/ores.json",
+      "hash": "809d730ef3f816ef554f8dffe28af2b953fc9e48"
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_20_4/rareblocks.json",
+      "hash": "e0ecbba3cd67d02ad7956d8898a69b349f7e8e14"
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_20_4/README.txt",
+      "hash": "e9770e9a6a550871594e7e57326c26a97f912fac"
+    },
+    {
+      "path": "config/betterstrongholds/README.txt",
+      "hash": "c998f33867863c69c0ee99af679ecfad189513bd"
+    },
+    {
+      "path": "config/betterstrongholds-fabric-1_20_4.toml",
+      "hash": "34d67ce716672a9f111927b64d98126074ca52f3"
+    },
+    {
+      "path": "config/betterwitchhuts-fabric-1_20_4.toml",
+      "hash": "2406cb4135c28a7ce234ec470a274a8995ecf3e5"
+    },
+    {
+      "path": "config/cardinal-components-api.properties",
+      "hash": "fa888bcbf7e935bdae5567d26ffad1ac2f93b35c"
+    },
+    {
+      "path": "config/chatpatches.json",
+      "hash": "48c7a0a461ae988d434c6e407c600e6cb58ef4ce"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "26cef99cc13abad6d43bba9fe3df92279e05fca7"
+    },
+    {
+      "path": "config/connectivity.json",
+      "hash": "0ce0155e02d6fc4a98494edbc0c12f2242c1b6b5"
+    },
+    {
+      "path": "config/cookingforblockheads-common.toml",
+      "hash": "dfde4aba35b86ccf029ba697b5b7eddc6905117a"
+    },
+    {
+      "path": "config/cullleaves.json",
+      "hash": "e23354e548653ad779a519da30f6e3a25fe0ce3d"
+    },
+    {
+      "path": "config/cupboard.json",
+      "hash": "cfa60cb9fc1260b3c92e2eb08ac7e0d4d13274f5"
+    },
+    {
+      "path": "config/deeperdarker.json5",
+      "hash": "6f88e0c982f0f926ebb9768583668ab61e404d56"
+    },
+    {
+      "path": "config/diggusmaximus/blacklist.json5",
+      "hash": "5a1f58ba8454a0176a7267b5e07aa5f92ba1e07e"
+    },
+    {
+      "path": "config/diggusmaximus/config.json5",
+      "hash": "433871bcb91462e8009d2aa72a927fea0933f510"
+    },
+    {
+      "path": "config/diggusmaximus/excavatingshapes.json5",
+      "hash": "ae8671465bb41ba6235242907a0c6876002627bd"
+    },
+    {
+      "path": "config/diggusmaximus/grouping.json5",
+      "hash": "f46e70cadb12ce44c0baf8072bbf572a7c656226"
+    },
+    {
+      "path": "config/enchdesc.json",
+      "hash": "d343c7b0f6c28fd6759196e0349dcb875c4f7ce9"
+    },
+    {
+      "path": "config/endermanoverhaul-client.jsonc",
+      "hash": "41681eca4779a4d1f73bf2f32e114910c8194b1a"
+    },
+    {
+      "path": "config/endermanoverhaul.jsonc",
+      "hash": "a8a9709d7edfb0bc8dc99d3d0c83654ee13eb35a"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "357596d28897464008763444d59e9d3eb78b593c"
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "hash": "7c4456a0f73cd5eecbdb7e49914fd9d21bdb6ace"
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "hash": "284fd71c77bf9afad9c28877e701cd52102c4e0a"
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "hash": "1573fc320a363b30a1a5e4cae1d4596ec177085d"
+    },
+    {
+      "path": "config/explorerscompass.json",
+      "hash": "35323966095cdb1bd8d482c140de43360026a8f6"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "17736b63bb84ac52c1e739fefcb2e412029aac90"
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "hash": "69e297dba67843f367101f4efc5d27bbcda27c1e"
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "hash": "d18b6bbd7411a191c899a558fa459aefa4c4a3de"
+    },
+    {
+      "path": "config/graveyard/the-graveyard-3.0-config.json5",
+      "hash": "f262ee8e5f1a7a834a9a4c50d4d6596902bc4a48"
+    },
+    {
+      "path": "config/guardvillagers.json",
+      "hash": "089f399fc7bba78e7c980844ed5b2894c65b1394"
+    },
+    {
+      "path": "config/imblocker.json",
+      "hash": "7532c0c013e48866a0df05e7a59f3d5d6a9c95f1"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "hash": "0c24c114378d2f87a1229e01dc067aa53b3f1ccd"
+    },
+    {
+      "path": "config/inventoryhud.json",
+      "hash": "5434b16cbbb0c87d8a68c8bf62ab859c97f0f91c"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
+    },
+    {
+      "path": "config/inventoryprofilesnext/新的世界/villager-trading-config.json",
+      "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f"
+    },
+    {
+      "path": "config/iris.properties",
+      "hash": "9ba7bc7e79149a8645f11853029563d63bfed1ef"
+    },
+    {
+      "path": "config/itemphysic-client.json",
+      "hash": "f74f630ac89aeabd144fc311c699720dd3720d48"
+    },
+    {
+      "path": "config/itemphysic.json",
+      "hash": "3cf1644400fd927671a36c28c4c4367dd1cc8ee5"
+    },
+    {
+      "path": "config/itemscroller.json",
+      "hash": "4e7d6a1df42630d46317e88d59a9e86e2f0288bc"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "4687cf45914c45a4a67441d1f440d7d89d0f6281"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "9984b019823e8eaf19a40d0b7ee92590cb53b8e9"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "2e0fa9e9686ff941efafd5c1c35e4d5ec0a2e12f"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "acc19a128fd0be9492886541db591bec9558402f"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "9d329aef77494356be699015ff483d9dc2e353c2"
+    },
+    {
+      "path": "config/jade/usernamecache.json",
+      "hash": "9aa14b1b07408285140df91bc5b400326b330a0a"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "245cd98c00866ab9a4976c49cb664ec9caf1ad86"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "a2d1f22ee9a3aa27f3d25bb93c4c5d5cd5580e21"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "0d4f01ef03dca4c6cd400c5e0a4773b1ac5e5490"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "dd6106bd2ac4a3d2b02793ee58e46fb5786f758c"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "493ef2e1f35ef00ba114803fae8554a786da9397"
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "hash": "84bbdfff78523d1928df22ce0b71a0b001c39aee"
+    },
+    {
+      "path": "config/libgui.json5",
+      "hash": "aa2f828b3903fa48180cb314feb1107f4b4e42f2"
+    },
+    {
+      "path": "config/litematica/litematica_____.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/litematica/litematica______dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/litematica.json",
+      "hash": "7512aec999d5efe7fcfa613e51516e19f530e146"
+    },
+    {
+      "path": "config/lootr.json",
+      "hash": "52f090aff7d47da2d93ba02e40a2dda6a1c13174"
+    },
+    {
+      "path": "config/malilib.json",
+      "hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
+    },
+    {
+      "path": "config/midnightlib.json",
+      "hash": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db"
+    },
+    {
+      "path": "config/minihud/____.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/_____dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud.json",
+      "hash": "884540ecac6645598d6bac600b708bba9d8013bb"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "6088bbdf76c0756e9cd80ba92fff48c864a5117b"
+    },
+    {
+      "path": "config/modmenu.json",
+      "hash": "7153c9ead8e5aeb67dcdb8b78dbbc61b8e8ae4bd"
+    },
+    {
+      "path": "config/naturescompass.json",
+      "hash": "69e7de65f19a3b5f2678c1a53aba39738e5a0009"
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "hash": "a47b02b417ae52eb8b3fc7141d16901e44798155"
+    },
+    {
+      "path": "config/ofc.json",
+      "hash": "a903b8e2cff93607dad5f32821f76a7bb6617ba3"
+    },
+    {
+      "path": "config/resourceful-config-web.json",
+      "hash": "1531b5f536306e5b47b29282924426de6541896f"
+    },
+    {
+      "path": "config/sereneseasons/fertility.toml",
+      "hash": "f200236ef142693565674c774f4de3bf99a8bb2c"
+    },
+    {
+      "path": "config/sereneseasons/seasons.toml",
+      "hash": "dc62b8e070bd6e9070a70eb5dee42da1599739a1"
+    },
+    {
+      "path": "config/shouldersurfing-client.toml",
+      "hash": "247046d2938db8fdc6ddea21efa1aa3e7cd51287"
+    },
+    {
+      "path": "config/skinlayers.json",
+      "hash": "adf51e37dc134068d806066ed3a25efb592f1557"
+    },
+    {
+      "path": "config/skunkconfig.properties",
+      "hash": "b42e812574aa36f8bd9d5a6e380fccaafff4af8e"
+    },
+    {
+      "path": "config/so-many-enchantments.json",
+      "hash": "aad4b56ba7bfc8d6427daed2bdee4ec60555bebe"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "hash": "f7f3ca6e1e654f414018069fcf8618d9c56f6459"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "hash": "b1fdf3038060accec696177db699276ed074a6d2"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "hash": "2c3c21a4144b8ae95bf7ed65296e8d126b1afd63"
+    },
+    {
+      "path": "config/swampier_swamps.json5",
+      "hash": "911d6e91663b53fafb1ff3418deb3509031a8258"
+    },
+    {
+      "path": "config/syncmatica/config.json",
+      "hash": "e1d0b87b7809996f4763171446dd782f1c6a038c"
+    },
+    {
+      "path": "config/tectonic.json",
+      "hash": "43bc478ee8368d76df66412cfd001690d518e416"
+    },
+    {
+      "path": "config/toughasnails/client.toml",
+      "hash": "654fca31fbbc5af974b1a1961cbaf2195a7614d3"
+    },
+    {
+      "path": "config/toughasnails/temperature.toml",
+      "hash": "345f8465aa69ece7dfde8afd2942d7edd43b8d81"
+    },
+    {
+      "path": "config/toughasnails/thirst.toml",
+      "hash": "8811e19c1fc7cd5b23c4c690111e9a8312bb7cb6"
+    },
+    {
+      "path": "config/travelersbackpack.json5",
+      "hash": "8dc6d060024814cd403c0716fe702f7d7e98fb53"
+    },
+    {
+      "path": "config/tweakeroo.json",
+      "hash": "ff80f778a64edda6fb6fab41b9bec16ecd039c1a"
+    },
+    {
+      "path": "config/veinmining-client.toml",
+      "hash": "f1a4f9cb659b18cac941ad0e3c4bd0365ffba9a9"
+    },
+    {
+      "path": "config/veinmining-common.toml",
+      "hash": "f1c2e1d198090cfc9b6f87049739bdcd6e9d53b9"
+    },
+    {
+      "path": "config/veinmining-server.toml",
+      "hash": "5fa0795af7c10b6c8c4545aba8f632d08000e211"
+    },
+    {
+      "path": "config/xaerominimap-common.txt",
+      "hash": "6b046de5626a1a61b0ef7ff0dd2ae1de3c9bfcad"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "2a7d929d6403a92768d6a977af83570c9ceb173f"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "3523d6db6b0543a9de55286e914bc748f7fc68d9"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/xaeroworldmap-common.txt",
+      "hash": "98767f3942b508f9de60bfdf029dd3ee00c3632d"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c"
+    },
+    {
+      "path": "config/yacl.json5",
+      "hash": "ef6eac77bc8ec50971872b820002db7227ece802"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
+    {
+      "path": "mods/$RLYT1Q9.jar",
+      "hash": "006fcd4bd735279a7a9ad496578a0f4fda194918"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "cc7b0f8abcfeeb36b03a71e18091755707923ce5"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.4"
+    },
+    {
+      "id": "fabric",
+      "version": "0.15.11"
+    }
+  ]
+}
